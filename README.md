@@ -1,4 +1,4 @@
-## Hi there 👋
+Github Made me do this 
 
 <!--
 **chaikrk/chaikrk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
