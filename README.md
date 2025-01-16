@@ -1,5 +1,5 @@
-Github Made me do this 
-
+- Quantitative Trading & Algorithmic Strategies
+- Data Science & Analysis
 <!--
 **chaikrk/chaikrk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
